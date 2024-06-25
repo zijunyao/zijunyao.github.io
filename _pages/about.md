@@ -20,11 +20,11 @@ Prior to joining KU as an Assistant Professor in the Department of EECS, I was a
 
 For perspective students:
 
-[**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at link. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
+[**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at [link](https://eecs.ku.edu/phd-program){:target="_blank"}. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
 
 ### News
 - [06/2024]\: A student co-chair with Dr. Jian Li has defended the master's thesis. Congrats to Abhishek Doodgaon!
-- [06/2024]\: A proposal Co-PI with Dr. Amit Noheria and Dr. Sumaiya Shomaji was accepted by Transformational Project Award from American Heart Association (AHA).
+- [06/2024]\: A proposal co-PI with Dr. Amit Noheria and Dr. Sumaiya Shomaji was accepted by Transformational Project Award from American Heart Association (AHA).
 - [05/2024]\: A student was granted Undergraduate Research Award (UGRA) in Fall 2024. Congrats to Shad Ahmed!
 - [04/2024]\: A paper was accepted by CCS 2024. Congrats to Zeyan Liu!
 - [04/2024]\: Visited and gave a talk at University of Arkansas. Big thanks to Dr. Xintao Wu!

@@ -17,7 +17,7 @@ author_profile: true
   font-size:0.9em;
 }
 </style>
-## Lab mambers
+## Lab members
 ### Ph.D. Students
 - Arya Hadizadeh Moghaddam, Computer Science, 2022 - present
 - Mohsen Nayebi Kerdabadi, Computer Science, 2023 - present

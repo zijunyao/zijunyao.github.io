@@ -16,7 +16,7 @@ author_profile: true
   font-size:0.9em;
 }
 </style>
-- EECS 738 Machine Learning	Srping/2024
+- EECS 836 Machine Learning	Srping/2024
 - EECS 568 Introduction to Data Mining	Fall/2023
 - EECS 330 Data Structures and Algorithms	Fall/2023
 - EECS 738 Machine Learning	Spring/2023
