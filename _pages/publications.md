@@ -17,6 +17,10 @@ author_profile: true
 }
 </style>
 
+- Meta-Learning on Augmented Gene Expression Profiles for Enhanced Lung Cancer Detection\
+_Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Cuncong Zhong, **Zijun Yao**_\
+American Medical Informatics Association Annual Symposium (AMIA), 2024.
+
 - On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing\
 _Zeyan Liu, **Zijun Yao**, Fengjun Li, Bo Luo_\
 ACM Conference on Computer and Communications Security (CCS), 2024. [[Paper](https://arxiv.org/pdf/2306.05524){:target="_blank"}]
@@ -127,6 +131,6 @@ ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2013.
 
 
 ### Conference Reviewer
-- <div class=myDiv>KDD/CIKM/SDM</div>
+- <div class=myDiv>KDD/WWW/CIKM/SDM</div>
 - <div class=myDiv>AAAI/IJCAI</div>
 - <div class=myDiv>ACL/EMNLP</div>
