@@ -24,6 +24,7 @@ author_profile: true
 
 ### Master's Students
 -	Mohammmed Atif Siddiqui, Computer Science (project option), 2022 - present
+- Israel Herrera Rivera, Chemical Engineering, 2023 - present (co-chair with Dr. Xiaoli Li)
 
 
 ### Undergraduate Students
