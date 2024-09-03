@@ -19,11 +19,11 @@ author_profile: true
 
 - Contrastive Learning on Medical Intents for Sequential Prescription Recommendation\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Mei Liu, **Zijun Yao**_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2024.
+ACM International Conference on Information and Knowledge Management (CIKM), 2024. [[Paper](https://arxiv.org/pdf/2408.10259){:target="_blank"}]
 
 - Meta-Learning on Augmented Gene Expression Profiles for Enhanced Lung Cancer Detection\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Cuncong Zhong, **Zijun Yao**_\
-American Medical Informatics Association Annual Symposium (AMIA), 2024.
+American Medical Informatics Association Annual Symposium (AMIA), 2024. [[Paper](https://arxiv.org/pdf/2408.09635){:target="_blank"}]
 
 - On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing\
 _Zeyan Liu, **Zijun Yao**, Fengjun Li, Bo Luo_\

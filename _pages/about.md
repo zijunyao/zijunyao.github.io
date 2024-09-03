@@ -23,6 +23,7 @@ For perspective students:
 [**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at [link](https://eecs.ku.edu/phd-program){:target="_blank"}. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
 
 ### News
+- [08/2024]\: Two PhD students were granted David D. and Mildred H. Robb Award from EECS department for supports to present papers at CIKM.
 - [07/2024]\: A paper was accepted by CIKM 2024 (Full Research Paper track). Congrats to Arya Hadizadeh!
 - [07/2024]\: A proposal co-PI with Dr. Ling Zhang was accepted by Personalisation Research Grant from [EIDU](https://eidu.com/){:target="_blank"}, a digital learning platform enabling 250,000 students in low-cost schools in Kenya to access high-quality education. This project is funded by Gates Fundation.
 - [06/2024]\: A paper was accepted by AMIA 2024. Congrats to Arya Hadizadeh!
