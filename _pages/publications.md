@@ -17,6 +17,10 @@ author_profile: true
 }
 </style>
 
+- Discovering Time-Aware Hidden Dependencies with Personalized Graphical Structure in Electronic Health Records\
+_Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Bin Liu, Mei Liu, **Zijun Yao**_\
+ACM Transactions on Knowledge Discovery from Data (TKDD), 2024.
+
 - Contrastive Learning on Medical Intents for Sequential Prescription Recommendation\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Mei Liu, **Zijun Yao**_\
 ACM International Conference on Information and Knowledge Management (CIKM), 2024. [[Paper](https://arxiv.org/pdf/2408.10259){:target="_blank"}]
