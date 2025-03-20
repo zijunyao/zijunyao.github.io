@@ -17,6 +17,14 @@ author_profile: true
 }
 </style>
 
+- Designing GenAI Tools for Personalized Learning Implementation: Theoretical Analysis and Prototype of a Multi-Agent System\
+_Ling Zhang, **Zijun Yao**, Arya Hadizadeh Moghaddam_\
+Journal of Teacher Education, 2025. [[Paper](https://journals.sagepub.com/doi/10.1177/00224871251325109){:target="_blank"}]
+
+- Recurrent Neural Networks and Attention Scores for Personalized Prediction and Interpretation of Patient-Reported Outcomes\
+_Jinxiang Hu, Mohsen Nayebi Kerdabadi, Xiaohang Mei, Joseph Cappelleri, Richard Barohn, **Zijun Yao**_\
+Journal of Biopharmaceutical Statistics, 2025. [[Paper](https://www.tandfonline.com/doi/full/10.1080/10543406.2025.2469884){:target="_blank"}]
+
 - Discovering Time-Aware Hidden Dependencies with Personalized Graphical Structure in Electronic Health Records\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Bin Liu, Mei Liu, **Zijun Yao**_\
 ACM Transactions on Knowledge Discovery from Data (TKDD), 2024. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3709143){:target="_blank"}]
