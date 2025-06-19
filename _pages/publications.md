@@ -17,6 +17,18 @@ author_profile: true
 }
 </style>
 
+- Explainable AI predicting Alzheimer's disease with latent multimodal deep neural networks\
+_Xi Chen, Jeffrey Thompson, **Zijun Yao**, Joseph C. Cappelleri, Jonah Amponsah, Rishav Mukherjee, Jinxiang Hu_\
+Journal of Biopharmaceutical Statistics, 2025. [[Paper](https://www.tandfonline.com/doi/full/10.1080/10543406.2025.2511194){:target="_blank"}]
+
+- DeepJ: Graph Convolutional Transformers with Differentiable Pooling for Patient Trajectory Modeling\
+_Deyi Li, **Zijun Yao**, Muxuan Liang, Mei Liu_\
+American Medical Informatics Association Annual Symposium (AMIA), 2025.
+
+- Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search\
+_Rui Liu, Rui Xie, **Zijun Yao**, Yanjie Fu, Dongjie Wang_\
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
+
 - Designing GenAI Tools for Personalized Learning Implementation: Theoretical Analysis and Prototype of a Multi-Agent System\
 _Ling Zhang, **Zijun Yao**, Arya Hadizadeh Moghaddam_\
 Journal of Teacher Education, 2025. [[Paper](https://journals.sagepub.com/doi/10.1177/00224871251325109){:target="_blank"}]

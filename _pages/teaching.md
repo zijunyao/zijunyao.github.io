@@ -16,7 +16,7 @@ author_profile: true
   font-size:0.9em;
 }
 </style>
-- EECS 836 Machine Learning	Spring/2024, 2023, 2022
+- EECS 836 Machine Learning	Spring/2025, 2024, 2023, 2022
   - Machine learning aims to understand the structure of data and fit the data into models that can be utilized by people. From automating mundane tasks to offering intelligent insights, a variety of machine learning techniques, like computer vision, natural language processing, and recommendation systems have made a massive change in every sector of the economy. This course will explain the fundamental principles, algorithm details, and applications of multiple areas of machine learning by lectures and case studies, including classification, regression, clustering, and deep learning. After taking this course, the students should be capable of (1) describing the techniques of machine learning and making informed trade-offs on what approaches to use; (2) formulating the machine learning projects for different problems and building modeling strategies; and (3) utilizing a variety of algorithms and tools to gather, process, derive, and evaluate insights from data.
   
 - EECS 568 Introduction to Data Mining	Fall/2024, 2023, 2022, 2021
