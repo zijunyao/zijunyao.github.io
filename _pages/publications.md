@@ -23,11 +23,11 @@ Journal of Biopharmaceutical Statistics, 2025. [[Paper](https://www.tandfonline.
 
 - DeepJ: Graph Convolutional Transformers with Differentiable Pooling for Patient Trajectory Modeling\
 _Deyi Li, **Zijun Yao**, Muxuan Liang, Mei Liu_\
-American Medical Informatics Association Annual Symposium (AMIA), 2025.
+American Medical Informatics Association Annual Symposium (AMIA), 2025. [[Paper](https://arxiv.org/pdf/2506.15809){:target="_blank"}]
 
 - Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search\
 _Rui Liu, Rui Xie, **Zijun Yao**, Yanjie Fu, Dongjie Wang_\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025.
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[Paper](https://arxiv.org/pdf/2505.11601){:target="_blank"}]
 
 - Designing GenAI Tools for Personalized Learning Implementation: Theoretical Analysis and Prototype of a Multi-Agent System\
 _Ling Zhang, **Zijun Yao**, Arya Hadizadeh Moghaddam_\
