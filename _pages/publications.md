@@ -18,12 +18,12 @@ author_profile: true
 </style>
 
 - Multi-Ontology Integration with Dual-Axis Propagation for Medical Concept Representation\
-_Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Dongjie Wang and **Zijun Yao**_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2025.
+_Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Dongjie Wang, **Zijun Yao**_\
+ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://arxiv.org/pdf/2508.21320){:target="_blank"}]
 
 - Adaptive Context-Infused Performance Evaluator for Iterative Feature Space Optimization\
-_Yanping Wu, Yanyong Huang, **Zijun Yao**, Yanjie Fu, Kunpeng Liu, Xiao Luo and Dongjie Wang_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2025.
+_Yanping Wu, Yanyong Huang, **Zijun Yao**, Yanjie Fu, Kunpeng Liu, Xiao Luo, Dongjie Wang_\
+ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://arxiv.org/pdf/2501.14889){:target="_blank"}]
 
 - Explainable AI predicting Alzheimer's disease with latent multimodal deep neural networks\
 _Xi Chen, Jeffrey Thompson, **Zijun Yao**, Joseph C. Cappelleri, Jonah Amponsah, Rishav Mukherjee, Jinxiang Hu_\
