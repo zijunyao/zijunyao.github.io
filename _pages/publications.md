@@ -17,13 +17,17 @@ author_profile: true
 }
 </style>
 
+- User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering\
+_Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, **Zijun Yao**_\
+IEEE International Conference on Data Engineering (ICDE), 2026.
+
 - Multi-Ontology Integration with Dual-Axis Propagation for Medical Concept Representation\
 _Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Dongjie Wang, **Zijun Yao**_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://arxiv.org/pdf/2508.21320){:target="_blank"}]
+ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3746252.3761388){:target="_blank"}]
 
 - Adaptive Context-Infused Performance Evaluator for Iterative Feature Space Optimization\
 _Yanping Wu, Yanyong Huang, **Zijun Yao**, Yanjie Fu, Kunpeng Liu, Xiao Luo, Dongjie Wang_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://arxiv.org/pdf/2501.14889){:target="_blank"}]
+ACM International Conference on Information and Knowledge Management (CIKM), 2025. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3746252.3761123){:target="_blank"}]
 
 - Explainable AI predicting Alzheimer's disease with latent multimodal deep neural networks\
 _Xi Chen, Jeffrey Thompson, **Zijun Yao**, Joseph C. Cappelleri, Jonah Amponsah, Rishav Mukherjee, Jinxiang Hu_\
@@ -35,7 +39,7 @@ American Medical Informatics Association Annual Symposium (AMIA), 2025. [[Paper]
 
 - Continuous Optimization for Feature Selection with Permutation-Invariant Embedding and Policy-Guided Search\
 _Rui Liu, Rui Xie, **Zijun Yao**, Yanjie Fu, Dongjie Wang_\
-ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[Paper](https://arxiv.org/pdf/2505.11601){:target="_blank"}]
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2025. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3711896.3736891){:target="_blank"}]
 
 - Designing GenAI Tools for Personalized Learning Implementation: Theoretical Analysis and Prototype of a Multi-Agent System\
 _Ling Zhang, **Zijun Yao**, Arya Hadizadeh Moghaddam_\
@@ -51,23 +55,23 @@ ACM Transactions on Knowledge Discovery from Data (TKDD), 2024. [[Paper](https:/
 
 - Contrastive Learning on Medical Intents for Sequential Prescription Recommendation\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Mei Liu, **Zijun Yao**_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2024. [[Paper](https://arxiv.org/pdf/2408.10259){:target="_blank"}]
+ACM International Conference on Information and Knowledge Management (CIKM), 2024. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3627673.3679836){:target="_blank"}]
 
 - Meta-Learning on Augmented Gene Expression Profiles for Enhanced Lung Cancer Detection\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Cuncong Zhong, **Zijun Yao**_\
-American Medical Informatics Association Annual Symposium (AMIA), 2024. [[Paper](https://arxiv.org/pdf/2408.09635){:target="_blank"}]
+American Medical Informatics Association Annual Symposium (AMIA), 2024. [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099339/){:target="_blank"}]
 
 - On the Detectability of ChatGPT Content: Benchmarking, Methodology, and Evaluation through the Lens of Academic Writing\
 _Zeyan Liu, **Zijun Yao**, Fengjun Li, Bo Luo_\
-ACM Conference on Computer and Communications Security (CCS), 2024. [[Paper](https://arxiv.org/pdf/2306.05524){:target="_blank"}]
+ACM Conference on Computer and Communications Security (CCS), 2024. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3658644.3670392){:target="_blank"}]
 
 - Contrastive Learning of Temporal Distinctiveness for Survival Analysis in Electronic Health Records\
 _Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Bin Liu, Mei Liu, **Zijun Yao**_\
-ACM International Conference on Information and Knowledge Management (CIKM), 2023. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3583780.3614824){:target="_blank"}]
+ACM International Conference on Information and Knowledge Management (CIKM), 2023. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3583780.3614824){:target="_blank"}]
 
 - Ontology-Aware Prescription Recommendation in Treatment Pathways using Multi-Evidence Healthcare Data\
 _**Zijun Yao**, Bin Liu, Fei Wang, Daby Sow, Ying Li_\
-ACM Transactions on Information Systems (TOIS), 2023. [[Paper](https://ittc.ku.edu/~zyao/docs/3579994.pdf){:target="_blank"}]
+ACM Transactions on Information Systems (TOIS), 2023. [[Paper](https://dl.acm.org/doi/epdf/10.1145/3579994){:target="_blank"}]
 
 - Invernet: An Inversion Attack Framework to Infer Fine-Tuning Datasets through Word Embeddings\
 _Ishrak Hayet, **Zijun Yao**, Bo Luo_\
