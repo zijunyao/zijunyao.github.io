@@ -19,7 +19,7 @@ author_profile: true
 
 - User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, **Zijun Yao**_\
-IEEE International Conference on Data Engineering (ICDE), 2026.
+IEEE International Conference on Data Engineering (ICDE), 2026. [[Paper](https://arxiv.org/pdf/2601.22820){:target="_blank"}]
 
 - Multi-Ontology Integration with Dual-Axis Propagation for Medical Concept Representation\
 _Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Dongjie Wang, **Zijun Yao**_\
