@@ -10,6 +10,17 @@ redirect_from:
 <style>
 red { color: pink }
 green { color: green }
+
+.news-archive summary {
+  font-family: inherit;
+  font-size: 0.9em;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.news-archive ul {
+  margin-top: 0.75em;
+}
 </style>
 
 I am an Assistant Professor at [University of Kansas (KU)](https://www.ku.edu/){:target="_blank"} in the Department of [Electrical Engineering and Computer Science (EECS)](https://eecs.ku.edu/){:target="_blank"}. My research focuses on data mining and knowledge discovery, with an emphasis on creating effective and efficient data science techniques for emerging data-intensive applications. In particular, my current research focuses in the domains of health informatics, recommender systems, and natural language processing. More recently, my research involves utilizing Large Language Models (LLMs) for AI-generated Content (AIGC) detection, and LLM-in-the-loop algorithm development.
@@ -23,20 +34,26 @@ For perspective students:
 [**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at [link](https://eecs.ku.edu/phd-program){:target="_blank"}. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
 
 ### News
+- [4/2026]\: Congrats to Mohsen Nayeb on his ACL main track acceptance, and to Arya Hadizadeh on his ACL 2026 Findings paper acceptance!
 - [1/2026]\: Congrats to Arya Hadizadeh on his ICDE 2026 paper acceptance!
 - [8/2025]\: Gave an invited talk at the Stowers Institute for Medical Research titled "Knowledge Graphs, Meta-Learning, and LLMs: Bridging AI Algorithms and Biomedical Discovery".
 - [8/2025]\: Congrats to Mohsen Nayebi on his CIKM 2025 paper acceptance!
 - [6/2025]\: A student was granted Undergraduate Research Award (UGRA) in Fall 2025. Congrats to Pranav Amatapu!
 - [4/2025]\: Three PhD students will do data science internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@San Jose), Drew Ross ([BioData Solution](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence). Congrats to ALL!
-- [11/2024]\: A paper was accepted by TKDD. Congrats to Arya Hadizadeh!
-- [08/2024]\: Two PhD students were granted David D. and Mildred H. Robb Award from EECS department for supports to present papers at CIKM.
-- [07/2024]\: A paper was accepted by CIKM 2024 (Full Research Paper track). Congrats to Arya Hadizadeh!
-- [07/2024]\: A proposal co-PI with Dr. Ling Zhang was accepted by Personalisation Research Grant from [EIDU](https://eidu.com/){:target="_blank"}, a digital learning platform enabling 250,000 students in low-cost schools in Kenya to access high-quality education. This project is funded by Gates Fundation.
-- [06/2024]\: A paper was accepted by AMIA 2024. Congrats to Arya Hadizadeh!
-- [06/2024]\: A student co-chair with Dr. Jian Li has defended the master's thesis. Congrats to Abhishek Doodgaon!
-- [06/2024]\: A proposal co-PI with Dr. Amit Noheria and Dr. Sumaiya Shomaji was accepted by Transformational Project Award from American Heart Association (AHA).
-- [05/2024]\: A student was granted Undergraduate Research Award (UGRA) in Fall 2024. Congrats to Shad Ahmed!
-- [04/2024]\: A paper was accepted by CCS 2024. Congrats to Zeyan Liu!
-- [04/2024]\: Visited and gave a talk at University of Arkansas. Big thanks to Dr. Xintao Wu!
-- [01/2024]\: Attended two NSF panels.
 
+<details class="news-archive">
+  <summary>Archived News (Before 2025)</summary>
+  <ul>
+    <li>[11/2024]: A paper was accepted by TKDD. Congrats to Arya Hadizadeh!</li>
+    <li>[08/2024]: Two PhD students were granted David D. and Mildred H. Robb Award from EECS department for supports to present papers at CIKM.</li>
+    <li>[07/2024]: A paper was accepted by CIKM 2024 (Full Research Paper track). Congrats to Arya Hadizadeh!</li>
+    <li>[07/2024]: A proposal co-PI with Dr. Ling Zhang was accepted by Personalisation Research Grant from <a href="https://eidu.com/" target="_blank">EIDU</a>, a digital learning platform enabling 250,000 students in low-cost schools in Kenya to access high-quality education. This project is funded by Gates Fundation.</li>
+    <li>[06/2024]: A paper was accepted by AMIA 2024. Congrats to Arya Hadizadeh!</li>
+    <li>[06/2024]: A student co-chair with Dr. Jian Li has defended the master's thesis. Congrats to Abhishek Doodgaon!</li>
+    <li>[06/2024]: A proposal co-PI with Dr. Amit Noheria and Dr. Sumaiya Shomaji was accepted by Transformational Project Award from American Heart Association (AHA).</li>
+    <li>[05/2024]: A student was granted Undergraduate Research Award (UGRA) in Fall 2024. Congrats to Shad Ahmed!</li>
+    <li>[04/2024]: A paper was accepted by CCS 2024. Congrats to Zeyan Liu!</li>
+    <li>[04/2024]: Visited and gave a talk at University of Arkansas. Big thanks to Dr. Xintao Wu!</li>
+    <li>[01/2024]: Attended two NSF panels.</li>
+  </ul>
+</details>
