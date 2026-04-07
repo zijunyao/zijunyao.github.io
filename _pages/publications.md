@@ -22,7 +22,7 @@ Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
 
 - RePrompT: Recurrent Prompt Tuning for Integrating Structured EHR Encoders with Large Language Models\
 _Arya Hadizadeh Moghaddam, Drew Ross, Mohsen Nayebi Kerdabadi, Dongjie Wang, **Zijun Yao**_\
-IAnnual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2026.
+Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2026.
 
 - User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, **Zijun Yao**_\
