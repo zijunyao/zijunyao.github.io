@@ -21,6 +21,32 @@ green { color: green }
 .news-archive ul {
   margin-top: 0.75em;
 }
+
+.clustr-section {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e0e0e0;
+}
+
+.clustr-section h3 {
+  font-size: 1em;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 0.75em;
+}
+
+.clustr-wrapper {
+  width: 200px;
+  margin: 0.5em 0;
+}
+
+.clustr-wrapper canvas,
+.clustr-wrapper iframe,
+.clustr-wrapper img {
+  width: 200px !important;
+  height: 200px !important;
+  max-width: 100% !important;
+}
 </style>
 
 I am an Assistant Professor at [University of Kansas (KU)](https://www.ku.edu/){:target="_blank"} in the Department of [Electrical Engineering and Computer Science (EECS)](https://eecs.ku.edu/){:target="_blank"}. My research focuses on data mining and knowledge discovery, with an emphasis on creating effective and efficient data science techniques for emerging data-intensive applications. In particular, my current research focuses in the domains of health informatics, recommender systems, and natural language processing. More recently, my research involves utilizing Large Language Models (LLMs) for AI-generated Content (AIGC) detection, and LLM-in-the-loop algorithm development.
@@ -34,6 +60,7 @@ For perspective students:
 [**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at [link](https://eecs.ku.edu/phd-program){:target="_blank"}. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
 
 ### News
+- [4/2026]\: Three PhD students will do internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@NYC), Drew Ross ([BioData Solution](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence).
 - [4/2026]\: Congrats to Mohsen Nayebi on his ACL main track acceptance, and to Arya Hadizadeh on his ACL 2026 Findings paper acceptance!
 - [1/2026]\: Congrats to Arya Hadizadeh on his ICDE 2026 paper acceptance!
 - [8/2025]\: Gave an invited talk at the Stowers Institute for Medical Research titled "Knowledge Graphs, Meta-Learning, and LLMs: Bridging AI Algorithms and Biomedical Discovery".
@@ -57,3 +84,10 @@ For perspective students:
     <li>[01/2024]: Attended two NSF panels.</li>
   </ul>
 </details>
+
+<div class="clustr-section">
+  <h3>Site Visitors</h3>
+  <div class="clustr-wrapper">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gbst3NPnUCCX-f2iULkCzHD3OR-j0l2MfBnivo69tME"></script>
+  </div>
+</div>

@@ -18,11 +18,11 @@ author_profile: true
 </style>
 - Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation\
 _Mohsen Nayebi Kerdabadi, Arya Hadizadeh Moghaddam, Chen Chen, Dongjie Wang, **Zijun Yao**_\
-Annual Meeting of the Association for Computational Linguistics (ACL), 2026.
+Annual Meeting of the Association for Computational Linguistics (ACL), 2026.  [[Paper](https://arxiv.org/pdf/2604.13331){:target="_blank"}]
 
 - RePrompT: Recurrent Prompt Tuning for Integrating Structured EHR Encoders with Large Language Models\
 _Arya Hadizadeh Moghaddam, Drew Ross, Mohsen Nayebi Kerdabadi, Dongjie Wang, **Zijun Yao**_\
-Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2026.
+Annual Meeting of the Association for Computational Linguistics Findings (ACL Findings), 2026.  [[Paper](https://arxiv.org/pdf/2604.17725){:target="_blank"}]
 
 - User-Adaptive Meta-Learning for Cold-Start Medication Recommendation with Uncertainty Filtering\
 _Arya Hadizadeh Moghaddam, Mohsen Nayebi Kerdabadi, Dongjie Wang, Mei Liu, **Zijun Yao**_\
