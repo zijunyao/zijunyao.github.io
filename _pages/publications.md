@@ -82,11 +82,11 @@ ACM Transactions on Information Systems (TOIS), 2023. [[Paper](https://dl.acm.or
 
 - Invernet: An Inversion Attack Framework to Infer Fine-Tuning Datasets through Word Embeddings\
 _Ishrak Hayet, **Zijun Yao**, Bo Luo_\
-Findings of 2022 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. [[Paper](https://ittc.ku.edu/~zyao/docs/INVERNET_EMNLP_2022.pdf){:target="_blank"}]
+Findings of 2022 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP), 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.368.pdf){:target="_blank"}]
 
 - Multi-View Multi-Task Campaign Embedding for Cold-Start Conversion Rate Forecasting\
 _**Zijun Yao**, Deguang Kong, Miao Lu, Xiao Bai, Jian Yang, Hui Xiong_\
-IEEE Transactions on Big Data (TBD), 2022. [[Paper](https://ittc.ku.edu/~zyao/docs/9741334.pdf){:target="_blank"}]
+IEEE Transactions on Big Data (TBD), 2022. [[Paper](https://ittc.ku.edu/~zyao/files/9741334.pdf){:target="_blank"}]
 
 - Deconvoluting Kinetic Rate Constants of Catalytic Substrates from Scanning Electrochemical Approach Curves with Artificial Neural Networks\
 _Dinuka Rajapakse, Josh Meckstroth, Dylan T. Jantz, Kyle Vincent Camarda, **Zijun Yao**, and Kevin C. Leonard_\
@@ -98,7 +98,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 - Deep Staging: An Interpretable Deep Learning Framework for Disease Staging\
 _Liuyi Yao, **Zijun Yao**, Jianying Hu, Jing Gao, Zhaonan Sun_\
-IEEE International Conference on Healthcare Informatics (ICHI), 2021. [[Paper](https://ittc.ku.edu/~zyao/docs/ICHI21_Deep_staging.pdf){:target="_blank"}]
+IEEE International Conference on Healthcare Informatics (ICHI), 2021. [[Paper](https://ittc.ku.edu/~zyao/files/ICHI21_Deep_staging.pdf){:target="_blank"}]
 
 - Phenotypical Ontology Driven Framework for Multi-Task Learning\
 _Mohamed Ghalwash, **Zijun Yao**, Prithwish Chakrabotry, James Codella, Daby Sow_\
@@ -122,19 +122,19 @@ European Conference on Machine Learning and Principles and Practice of Knowledge
 
 - Representing Urban Functions through Zone Embedding with Human Mobility Patterns\
 _**Zijun Yao**, Yanjie Fu, Bin Liu, Wangsu Hu, Hui Xiong_\
-International Joint Conference on Artificial Intelligence (IJCAI), 2018. [[Paper](https://ittc.ku.edu/~zyao/docs/YaoIJCAI18.pdf){:target="_blank"}]
+International Joint Conference on Artificial Intelligence (IJCAI), 2018. [[Paper](https://par.nsf.gov/servlets/purl/10074124){:target="_blank"}]
 
 - Dynamic Word Embeddings for Evolving Semantic Discovery\
 _**Zijun Yao**, Yifan Sun, Weicong Ding, Nikhil Rao, Hui Xiong_\
-ACM International Conference on Web Search and Data Mining (WSDM), 2018. [[Paper](https://ittc.ku.edu/~zyao/docs/DW2V.pdf){:target="_blank"}] [[Poster](https://ittc.ku.edu/~zyao/docs/WSDM18_poster.pdf){:target="_blank"}] [[Code](https://github.com/yifan0sun/DynamicWord2Vec?tab=readme-ov-file){:target="_blank"}] [[Data](https://kansas-my.sharepoint.com/:f:/g/personal/z461y203_home_ku_edu/Enf0TOUjBztKg395G6vQnv4BtcGrs24uiNx22dLn3GYXBg?e=VchrWk){:target="_blank"}]
+ACM International Conference on Web Search and Data Mining (WSDM), 2018. [[Paper](https://dl.acm.org/doi/pdf/10.1145/3159652.3159703){:target="_blank"}] [[Poster](https://ittc.ku.edu/~zyao/files/WSDM18_poster.pdf){:target="_blank"}] [[Code](https://github.com/yifan0sun/DynamicWord2Vec?tab=readme-ov-file){:target="_blank"}] [[Data](https://kansas-my.sharepoint.com/:f:/g/personal/z461y203_home_ku_edu/Enf0TOUjBztKg395G6vQnv4BtcGrs24uiNx22dLn3GYXBg?e=VchrWk){:target="_blank"}]
 
 - POI Recommendation: A Temporal Matching between POI Popularity and User Regularity\
 _**Zijun Yao**, Yanjie Fu, Bin Liu, Yanchi Liu, Hui Xiong_\
-IEEE International Conference on Data Mining (ICDM), 2016. (Full paper) [[Paper](https://ittc.ku.edu/~zyao/docs/yao2016poi.pdf){:target="_blank"}]
+IEEE International Conference on Data Mining (ICDM), 2016. (Full paper) [[Paper](https://ittc.ku.edu/~zyao/files/yao2016poi.pdf){:target="_blank"}]
 
 - The Impact of Community Safety on House Ranking\
 _**Zijun Yao**, Yanjie Fu, Bin Liu, Hui Xiong_\
-SIAM International Conference on Data Mining (SDM), 2016. [[Paper](https://ittc.ku.edu/~zyao/docs/yao2016impact.pdf){:target="_blank"}] [[Poster](https://ittc.ku.edu/~zyao/docs/SDM16poster.pdf){:target="_blank"}]
+SIAM International Conference on Data Mining (SDM), 2016. [[Paper](https://ittc.ku.edu/~zyao/files/yao2016impact.pdf){:target="_blank"}] [[Poster](https://ittc.ku.edu/~zyao/files/SDM16poster.pdf){:target="_blank"}]
 
 - Modeling of Geographical Dependencies for Real Estate Ranking\
 _Yanjie Fu, Hui Xiong, Yong Ge, Yu Zheng, **Zijun Yao**, Zhi-Hua Zhou_\
