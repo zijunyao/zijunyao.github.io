@@ -20,14 +20,6 @@ redirect_from:
   display: none;
 }
 
-@media screen and (min-width: 1024px) {
-  .sidebar {
-    position: relative !important;
-    height: auto !important;
-    padding-top: 0 !important;
-  }
-}
-
 red { color: pink }
 green { color: green }
 
@@ -138,13 +130,15 @@ For perspective students:
   </ul>
 </details>
 
+{% include base_path %}
+
 <div class="sponsors-section">
   <h3>We are grateful to our sponsors:</h3>
   <div class="sponsors-row">
-    <a href="https://www.nsf.gov/" target="_blank"><img src="../images/NSF_logo.svg" alt="National Science Foundation"></a>
-    <a href="https://www.heart.org/" target="_blank"><img src="../images/AHA_logo.jpg" alt="American Heart Association"></a>
-    <a href="https://www.kumc.edu/" target="_blank"><img src="../images/KUMC_logo.png" alt="University of Kansas Medical Center"></a>
-    <a href="https://www.uwyo.edu/" target="_blank"><img src="../images/University_of_Wyoming_logo.svg" alt="University of Wyoming"></a>
+    <a href="https://www.nsf.gov/" target="_blank"><img src="{{ base_path }}/images/NSF_logo.svg" alt="National Science Foundation"></a>
+    <a href="https://www.heart.org/" target="_blank"><img src="{{ base_path }}/images/AHA_logo.jpg" alt="American Heart Association"></a>
+    <a href="https://www.kumc.edu/" target="_blank"><img src="{{ base_path }}/images/KUMC_logo.png" alt="University of Kansas Medical Center"></a>
+    <a href="https://www.uwyo.edu/" target="_blank"><img src="{{ base_path }}/images/University_of_Wyoming_logo.svg" alt="University of Wyoming"></a>
   </div>
 </div>
 

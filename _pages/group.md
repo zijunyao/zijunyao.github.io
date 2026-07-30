@@ -16,13 +16,17 @@ author_profile: true
 .myDiv {
   font-size:0.9em;
 }
+
+.phd-students-row p {
+  font-size: 0.85em;
+}
 </style>
 ## Members
 ### Ph.D. Students
 
 <div style="margin-top: 25px;">
 </div>
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; row-gap: 10px; column-gap: 30px;">
+<div class="phd-students-row" style="display: flex; flex-wrap: wrap; justify-content: flex-start; row-gap: 10px; column-gap: 30px;">
     <div style="text-align: center; width: 200px;">
         <img src="../images/Arya.jpg" alt="Image 1" width="200" height="200" style="object-fit: cover;">
         <p>
