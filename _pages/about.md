@@ -22,30 +22,58 @@ green { color: green }
   margin-top: 0.75em;
 }
 
-.clustr-section {
+.visitors-section {
   margin-top: 3em;
   padding-top: 1.5em;
   border-top: 1px solid #e0e0e0;
 }
 
-.clustr-section h3 {
+.visitors-section h3 {
   font-size: 1em;
   font-weight: 600;
   color: #555;
   margin-bottom: 0.75em;
 }
 
-.clustr-wrapper {
-  width: 200px;
+.sponsors-section {
+  margin-top: 3em;
+  padding-top: 1.5em;
+  border-top: 1px solid #e0e0e0;
+}
+
+.sponsors-section h3 {
+  font-size: 1em;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 1em;
+}
+
+.sponsors-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2.5em;
+}
+
+.sponsors-row a {
+  display: flex;
+  align-items: center;
+}
+
+.sponsors-row img {
+  height: 95px;
+  width: auto;
+  max-width: 210px;
+}
+
+.visitors-wrapper {
+  max-width: 220px;
   margin: 0.5em 0;
 }
 
-.clustr-wrapper canvas,
-.clustr-wrapper iframe,
-.clustr-wrapper img {
-  width: 200px !important;
-  height: 200px !important;
-  max-width: 100% !important;
+.visitors-wrapper iframe,
+.visitors-wrapper img {
+  max-width: 100%;
 }
 </style>
 
@@ -54,13 +82,16 @@ I am an Assistant Professor at [University of Kansas (KU)](https://www.ku.edu/){
 Prior to joining KU as an Assistant Professor in the Department of EECS, I was a research staff member in AI for healthcare at [IBM Research](https://research.ibm.com/topics/healthcare-and-life-sciences){:target="_blank"} working under the supervision of [Dr. Jianying Hu](https://research.ibm.com/people/jianying-hu){:target="_blank"} on modeling the progression of Huntington Disease (HD) in collaboration with the CHDI Foundation. Previously, I received my Ph.D. in [Information Technology](https://www.business.rutgers.edu/faculty-research/management-science-information-systems){:target="_blank"} from [Rutgers University](https://www.rutgers.edu/){:target="_blank"} in 2018, under the guidance of [Dr. Hui Xiong](http://datamining.rutgers.edu/){:target="_blank"}, focusing on spatio-temporal pattern mining using massive GPS data. During my academic journey, I also gained valuable experience as a research intern at Yahoo Research and Technicolor AI Lab, collaborating with [Deguang Kong](https://scholar.google.com/citations?user=wCkI3_AAAAAJ){:target="_blank"}, [Yifan Sun](https://sites.google.com/site/yifansunwebsite){:target="_blank"}, [Nikhil Rao](https://sites.google.com/view/raonikhil/home){:target="_blank"}, and [Weicong Ding](https://scholar.google.com/citations?user=ZNl3Z-IAAAAJ){:target="_blank"}.
 
 
-
+<!--
 For perspective students:
 
 [**<green>RA/TA positions available</green>**] We are recruiting self-motivated PhD students to join us. Please feel free to email me your CV if you are interested in research of data mining and its broad applications. KU is the state's flagship university and the member of the [Association of American Universities (AAU)](https://en.wikipedia.org/wiki/Association_of_American_Universities){:target="_blank"}. According to Carnegie Classification of higher education, KU is ranked [Research I (R1)](https://en.wikipedia.org/wiki/Research_I_university){:target="_blank"} as the university with the highest levels of research activity. More application information of EECS can be found at [link](https://eecs.ku.edu/phd-program){:target="_blank"}. Pease feel free to share the ads if you know someone would be interested [ads](https://ittc.ku.edu/~zyao/docs/recruit_ads.pdf){:target="_blank"}.
+-->
 
 ### News
+- [5/2026]\: Dr. Yao received the NSF CAREER Award. Grateful to NSF for its support, and lucky to have such exceptional students to work with!
 - [4/2026]\: Three PhD students will do internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@NYC), Drew Ross ([BioData Solution](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence).
+- [4/2026]\: Dr. Yao received the NSF EPSCoR Research Fellows Award. Grateful to NSF and to all collaborators for their support!
 - [4/2026]\: Congrats to Mohsen Nayebi on his ACL main track acceptance, and to Arya Hadizadeh on his ACL 2026 Findings paper acceptance!
 - [1/2026]\: Congrats to Arya Hadizadeh on his ICDE 2026 paper acceptance!
 - [8/2025]\: Gave an invited talk at the Stowers Institute for Medical Research titled "Knowledge Graphs, Meta-Learning, and LLMs: Bridging AI Algorithms and Biomedical Discovery".
@@ -85,9 +116,19 @@ For perspective students:
   </ul>
 </details>
 
-<div class="clustr-section">
+<div class="sponsors-section">
+  <h3>Sponsors</h3>
+  <div class="sponsors-row">
+    <a href="https://www.nsf.gov/" target="_blank"><img src="../images/NSF_logo.svg" alt="National Science Foundation"></a>
+    <a href="https://www.heart.org/" target="_blank"><img src="../images/AHA_logo.jpg" alt="American Heart Association"></a>
+    <a href="https://www.kumc.edu/" target="_blank"><img src="../images/KUMC_logo.png" alt="University of Kansas Medical Center"></a>
+    <a href="https://www.uwyo.edu/" target="_blank"><img src="../images/University_of_Wyoming_logo.svg" alt="University of Wyoming"></a>
+  </div>
+</div>
+
+<div class="visitors-section">
   <h3>Site Visitors</h3>
-  <div class="clustr-wrapper">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gbst3NPnUCCX-f2iULkCzHD3OR-j0l2MfBnivo69tME"></script>
+  <div class="visitors-wrapper">
+    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sF3mvI0xAx7sNmd7n9EPw8H0l5lE8x38w-vH06L9RVg&cl=ffffff&w=a"></script>
   </div>
 </div>
