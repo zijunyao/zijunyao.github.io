@@ -2,12 +2,32 @@
 permalink: /
 title: "Bio"
 author_profile: true
+header:
+  overlay_image: home-banner.jpg
+  overlay_filter: 0.4
+  caption: "Allen Fieldhouse, University of Kansas"
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <style>
+.page__hero--overlay {
+  min-height: clamp(320px, 50vh, 560px);
+}
+
+.page__hero--overlay .page__title {
+  display: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    position: relative !important;
+    height: auto !important;
+    padding-top: 0 !important;
+  }
+}
+
 red { color: pink }
 green { color: green }
 
@@ -24,7 +44,7 @@ green { color: green }
 
 .visitors-section {
   margin-top: 3em;
-  padding-top: 1.5em;
+  padding-top: 20px;
   border-top: 1px solid #e0e0e0;
 }
 
@@ -32,12 +52,13 @@ green { color: green }
   font-size: 1em;
   font-weight: 600;
   color: #555;
+  margin-top: 0;
   margin-bottom: 0.75em;
 }
 
 .sponsors-section {
   margin-top: 3em;
-  padding-top: 1.5em;
+  padding-top: 20px;
   border-top: 1px solid #e0e0e0;
 }
 
@@ -45,6 +66,7 @@ green { color: green }
   font-size: 1em;
   font-weight: 600;
   color: #555;
+  margin-top: 0;
   margin-bottom: 1em;
 }
 
@@ -117,7 +139,7 @@ For perspective students:
 </details>
 
 <div class="sponsors-section">
-  <h3>Sponsors</h3>
+  <h3>We are grateful to our sponsors:</h3>
   <div class="sponsors-row">
     <a href="https://www.nsf.gov/" target="_blank"><img src="../images/NSF_logo.svg" alt="National Science Foundation"></a>
     <a href="https://www.heart.org/" target="_blank"><img src="../images/AHA_logo.jpg" alt="American Heart Association"></a>

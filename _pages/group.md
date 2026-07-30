@@ -22,21 +22,37 @@ author_profile: true
 
 <div style="margin-top: 25px;">
 </div>
-<div style="display: flex; justify-content: flex-start;">
-    <div style="text-align: center; margin-left: 20px; margin-right: 40px;">
-        <img src="../images/Arya.jpg" alt="Image 1" width="200">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; row-gap: 10px; column-gap: 30px;">
+    <div style="text-align: center; width: 200px;">
+        <img src="../images/Arya.jpg" alt="Image 1" width="200" height="200" style="object-fit: cover;">
         <p>
           Arya Hadizadeh Moghaddam<br>
           Computer Science<br>
           2022 - present (<a href="../files/AryaHM_CV.pdf" target="_blank">link</a>)
         </p>
     </div>
-    <div style="text-align: center; margin-right: 20px;">
-        <img src="../images/Mohsen.jpg" alt="Image 2" width="200">
+    <div style="text-align: center; width: 200px;">
+        <img src="../images/Mohsen.jpg" alt="Image 2" width="200" height="200" style="object-fit: cover;">
         <p>
           Mohsen Nayebi Kerdabadi<br>
           Computer Science<br>
           2023 - present (<a href="https://mohsen-nyb.github.io/" target="_blank">link</a>)
+        </p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+        <img src="../images/Chen.jpg" alt="Chen Chen" width="200" height="200" style="object-fit: cover;">
+        <p>
+          Chen Chen<br>
+          Computer Science<br>
+          2025 - present (<a href="https://chenc2002.github.io/ChenChen.github.io/" target="_blank">link</a>)
+        </p>
+    </div>
+    <div style="text-align: center; width: 200px;">
+        <img src="../images/Drew.jpeg" alt="Drew Ross" width="200" height="200" style="object-fit: cover;">
+        <p>
+          Drew Ross<br>
+          Computer Science<br>
+          2025 - present (<a href="https://dreweross.com/" target="_blank">link</a>)
         </p>
     </div>
 </div>
