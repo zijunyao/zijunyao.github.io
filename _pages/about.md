@@ -114,9 +114,10 @@ For perspective students:
 ### News
 - [5/2026]\: Dr. Yao received the NSF CAREER Award. Grateful to NSF for its support, and lucky to have such exceptional students to work with!
 - [4/2026]\: Three PhD students will do internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@NYC), Drew Ross ([BioData Solutions](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence).
-- [4/2026]\: We have partnered with BioData Solutions on a new sponsored research project focused on creating agent-based auditing tools to streamline bioanalytical report processing. Congratulations to Drew for driving this project forward!
+- [4/2026]\: BioData Solutions is sponsoring a new research project with our lab to develop agent-based auditing tools for bioanalytical report processing. Congratulations to Drew for driving this project forward!
 - [4/2026]\: Dr. Yao received the NSF EPSCoR Research Fellows Award. Grateful to NSF and to all collaborators for their support!
 - [4/2026]\: Congrats to Mohsen Nayebi on his ACL main track acceptance, and to Arya Hadizadeh on his ACL 2026 Findings paper acceptance!
+- [2-3/2026]\: Served on two NSF panels.
 - [1/2026]\: Congrats to Arya Hadizadeh on his ICDE 2026 paper acceptance!
 
 
