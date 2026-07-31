@@ -32,7 +32,7 @@ author_profile: true
         <p>
           Arya Hadizadeh Moghaddam<br>
           Computer Science<br>
-          2022 - present (<a href="../files/AryaHM_CV.pdf" target="_blank">link</a>)
+          2022 - present (<a href="https://scholar.google.com/citations?user=fK7PvksAAAAJ&hl=en" target="_blank">link</a>)
         </p>
     </div>
     <div style="text-align: center; width: 200px;">

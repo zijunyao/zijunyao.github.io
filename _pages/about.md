@@ -4,7 +4,6 @@ title: "Bio"
 author_profile: true
 header:
   overlay_image: home-banner.jpg
-  overlay_filter: 0.4
   caption: "Allen Fieldhouse, University of Kansas"
 redirect_from: 
   - /about/
@@ -77,7 +76,17 @@ green { color: green }
 .sponsors-row img {
   height: 95px;
   width: auto;
-  max-width: 210px;
+  max-width: 190px;
+  object-fit: contain;
+}
+
+.sponsors-row img.biodata-logo {
+  max-width: 175px;
+}
+
+.sponsors-row img.nsf-logo {
+  height: 120px;
+  max-width: 260px;
 }
 
 .visitors-wrapper {
@@ -104,18 +113,20 @@ For perspective students:
 
 ### News
 - [5/2026]\: Dr. Yao received the NSF CAREER Award. Grateful to NSF for its support, and lucky to have such exceptional students to work with!
-- [4/2026]\: Three PhD students will do internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@NYC), Drew Ross ([BioData Solution](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence).
+- [4/2026]\: Three PhD students will do internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@NYC), Drew Ross ([BioData Solutions](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence).
+- [4/2026]\: We have partnered with BioData Solutions on a new sponsored research project focused on creating agent-based auditing tools to streamline bioanalytical report processing. Congratulations to Drew for driving this project forward!
 - [4/2026]\: Dr. Yao received the NSF EPSCoR Research Fellows Award. Grateful to NSF and to all collaborators for their support!
 - [4/2026]\: Congrats to Mohsen Nayebi on his ACL main track acceptance, and to Arya Hadizadeh on his ACL 2026 Findings paper acceptance!
 - [1/2026]\: Congrats to Arya Hadizadeh on his ICDE 2026 paper acceptance!
-- [8/2025]\: Gave an invited talk at the Stowers Institute for Medical Research titled "Knowledge Graphs, Meta-Learning, and LLMs: Bridging AI Algorithms and Biomedical Discovery".
-- [8/2025]\: Congrats to Mohsen Nayebi on his CIKM 2025 paper acceptance!
-- [6/2025]\: A student was granted Undergraduate Research Award (UGRA) in Fall 2025. Congrats to Pranav Amatapu!
-- [4/2025]\: Three PhD students will do data science internship during this summer: Arya Hadizadeh ([Two Sigma](https://www.twosigma.com/){:target="_blank"}@NYC), Mohsen Nayebi ([Capital One](https://www.capitalonecareers.com/){:target="_blank"}@San Jose), Drew Ross ([BioData Solution](https://www.bdatasolutions.com/){:target="_blank"}@Lawrence). Congrats to ALL!
+
 
 <details class="news-archive">
-  <summary>Archived News (Before 2025)</summary>
+  <summary>Archived News</summary>
   <ul>
+    <li>[8/2025]: Gave an invited talk at the Stowers Institute for Medical Research titled "Knowledge Graphs, Meta-Learning, and LLMs: Bridging AI Algorithms and Biomedical Discovery".</li>
+    <li>[8/2025]: Congrats to Mohsen Nayebi on his CIKM 2025 paper acceptance!</li>
+    <li>[6/2025]: A student was granted Undergraduate Research Award (UGRA) in Fall 2025. Congrats to Pranav Amatapu!</li>
+    <li>[4/2025]: Three PhD students will do data science internship during this summer: Arya Hadizadeh (<a href="https://www.twosigma.com/" target="_blank">Two Sigma</a>@NYC), Mohsen Nayebi (<a href="https://www.capitalonecareers.com/" target="_blank">Capital One</a>@San Jose), Drew Ross (<a href="https://www.bdatasolutions.com/" target="_blank">BioData Solutions</a>@Lawrence). Congrats to ALL!</li>
     <li>[11/2024]: A paper was accepted by TKDD. Congrats to Arya Hadizadeh!</li>
     <li>[08/2024]: Two PhD students were granted David D. and Mildred H. Robb Award from EECS department for supports to present papers at CIKM.</li>
     <li>[07/2024]: A paper was accepted by CIKM 2024 (Full Research Paper track). Congrats to Arya Hadizadeh!</li>
@@ -133,12 +144,13 @@ For perspective students:
 {% include base_path %}
 
 <div class="sponsors-section">
-  <h3>We are grateful to our sponsors:</h3>
+  <h3>We are grateful to our sponsors</h3>
   <div class="sponsors-row">
-    <a href="https://www.nsf.gov/" target="_blank"><img src="{{ base_path }}/images/NSF_logo.svg" alt="National Science Foundation"></a>
+    <a href="https://www.nsf.gov/" target="_blank"><img class="nsf-logo" src="{{ base_path }}/images/NSF_logo.svg" alt="National Science Foundation"></a>
     <a href="https://www.heart.org/" target="_blank"><img src="{{ base_path }}/images/AHA_logo.jpg" alt="American Heart Association"></a>
     <a href="https://www.kumc.edu/" target="_blank"><img src="{{ base_path }}/images/KUMC_logo.png" alt="University of Kansas Medical Center"></a>
     <a href="https://www.uwyo.edu/" target="_blank"><img src="{{ base_path }}/images/University_of_Wyoming_logo.svg" alt="University of Wyoming"></a>
+    <a href="https://www.bdatasolutions.com/" target="_blank"><img class="biodata-logo" src="{{ base_path }}/images/BioData-Solutions.png" alt="BioData Solutions"></a>
   </div>
 </div>
 
