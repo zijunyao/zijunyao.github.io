@@ -90,17 +90,32 @@ green { color: green }
 }
 
 .visitors-wrapper {
-  max-width: 220px;
+  position: relative;
+  width: 210px;
+  height: 112.88px;
   margin: 0.5em 0;
+  overflow: hidden;
 }
 
-.visitors-wrapper iframe,
-.visitors-wrapper img {
+.visitors-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 420px !important;
+  height: 240px !important;
+  max-width: none !important;
+  border: 0;
+  transform: translate(-5.04px, -2.88px) scale(0.524);
+  transform-origin: 0 0;
+}
+
+.visitors-wrapper img,
+.visitors-wrapper canvas {
   max-width: 100%;
 }
 </style>
 
-I am an Assistant Professor at [University of Kansas (KU)](https://www.ku.edu/){:target="_blank"} in the Department of [Electrical Engineering and Computer Science (EECS)](https://eecs.ku.edu/){:target="_blank"}. My research focuses on data mining and knowledge discovery, with an emphasis on creating effective and efficient data science techniques for emerging data-intensive applications. In particular, my current research focuses in the domains of health informatics, recommender systems, and natural language processing. More recently, my research involves utilizing Large Language Models (LLMs) for AI-generated Content (AIGC) detection, and LLM-in-the-loop algorithm development.
+I am an Assistant Professor at [University of Kansas (KU)](https://www.ku.edu/){:target="_blank"} in the Department of [Electrical Engineering and Computer Science (EECS)](https://eecs.ku.edu/){:target="_blank"}. My research focuses on data mining and knowledge discovery, with an emphasis on creating effective and efficient data science techniques for emerging data-intensive applications. In particular, my current research focuses in the domains of health informatics, recommender systems, and natural language processing. More recently, my research involves utilizing Large Language Models (LLMs) for AI-generated Knowledge Graph (KG), and LLM-in-the-loop algorithm development.
 
 Prior to joining KU as an Assistant Professor in the Department of EECS, I was a research staff member in AI for healthcare at [IBM Research](https://research.ibm.com/topics/healthcare-and-life-sciences){:target="_blank"} working under the supervision of [Dr. Jianying Hu](https://research.ibm.com/people/jianying-hu){:target="_blank"} on modeling the progression of Huntington Disease (HD) in collaboration with the CHDI Foundation. Previously, I received my Ph.D. in [Information Technology](https://www.business.rutgers.edu/faculty-research/management-science-information-systems){:target="_blank"} from [Rutgers University](https://www.rutgers.edu/){:target="_blank"} in 2018, under the guidance of [Dr. Hui Xiong](http://datamining.rutgers.edu/){:target="_blank"}, focusing on spatio-temporal pattern mining using massive GPS data. During my academic journey, I also gained valuable experience as a research intern at Yahoo Research and Technicolor AI Lab, collaborating with [Deguang Kong](https://scholar.google.com/citations?user=wCkI3_AAAAAJ){:target="_blank"}, [Yifan Sun](https://sites.google.com/site/yifansunwebsite){:target="_blank"}, [Nikhil Rao](https://sites.google.com/view/raonikhil/home){:target="_blank"}, and [Weicong Ding](https://scholar.google.com/citations?user=ZNl3Z-IAAAAJ){:target="_blank"}.
 
@@ -158,6 +173,7 @@ For perspective students:
 <div class="visitors-section">
   <h3>Site Visitors</h3>
   <div class="visitors-wrapper">
-    <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sF3mvI0xAx7sNmd7n9EPw8H0l5lE8x38w-vH06L9RVg&cl=ffffff&w=a"></script>
+    <iframe src="https://revolvermaps.de/map2d/3e5402e551f6e6dc" width="420" height="240" style="width:100%;max-width:420px;border:0" loading="lazy" title="RevolverMaps widget"></iframe>
   </div>
 </div>
+
